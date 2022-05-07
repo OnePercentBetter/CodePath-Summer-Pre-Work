@@ -67,9 +67,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    more buttons/tones but I wanted to finish my application in one night since I'll be super busy for the rest of the month! Aside from that, maybe add background effects to the tone pressed such as the music theory scales/modes with a pitch
    to better sync the player timing. Or even to gauge the success of the game's completion by the timing of button being pressed after the clue is played. All in all so many things I want to add and change yet little time to do so!]
 
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://youtu.be/8QRdnfCcxYk)
 
 ## License
 
